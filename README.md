@@ -2,11 +2,16 @@
 
 
 <a href="https://www.linkedin.com/in/aman-kumar-67ba93249/">
-  <img align="left" alt="Aman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Aman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />
 </a>
+
 <a href="https://github.com/Aman7080">
-  <img align="left" alt="Aman's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Aman's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" />
 </a>
+
+<a href ="https://aman7080.github.io/">
+<img align="left" width="22px" alt="Aman's Portfolio Website" src="https://unpkg.com/simple-icons@v8/icons/aiohttp.svg"
+</a>  
 
 <br/>
 <br/>

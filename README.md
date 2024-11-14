@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more about Full Stack Development.
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Full Stack Development or any tech related stuff.
-- 📫 Connect with me: [Linkedin - @Aman](https://www.linkedin.com/in/kodekraftr/) , [Instagram - @metalovia](https://instagram.com/kodekraftr)
+- 📫 Connect with me: [Linkedin - Aman Kumar](https://www.linkedin.com/in/kodekraftr/) , [Instagram - @kodekraftr](https://instagram.com/kodekraftr)
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
 <br/>

@@ -1,10 +1,10 @@
-# Hii, I'm [Aman Kumar](https://github.com/Aman7080) 👋
+# Hii, I'm [Aman Kumar](https://github.com/kodekraftr) 👋
 
 
 - 🌱 I’m currently learning more about Full Stack Development.
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Full Stack Development or any tech related stuff.
-- 📫 Connect with me: [Linkedin - @Aman](https://www.linkedin.com/in/amankumar7080/) , [Instagram - @metalovia](https://instagram.com/metalovia)
+- 📫 Connect with me: [Linkedin - @Aman](https://www.linkedin.com/in/kodekraftr/) , [Instagram - @metalovia](https://instagram.com/kodekraftr)
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
 <br/>
@@ -26,7 +26,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
 
 ## Connect With Me :
 
-<a href="https://www.linkedin.com/in/aman-kumar-67ba93249/">
+<a href="https://www.linkedin.com/in/kodekraftr/">
   <img align="left" alt="Aman's Linkdein" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
